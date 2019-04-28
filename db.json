@@ -335,30 +335,6 @@
         "photo": "http://lorempixel.com/640/480/nightlife?random=1555263261804"
       },
       "stars": 0
-    },
-    {
-      "id": 14,
-      "key": 14,
-      "title": "Shields - Goldner",
-      "address": "West Kaylie",
-      "description": "bandwidth-monitored",
-      "phone": "1-242-409-7107",
-      "picture": "http://lorempixel.com/640/480/city?random=1555263261804",
-      "photos": [
-        "http://lorempixel.com/640/480/nightlife?random=1555263261804",
-        "http://lorempixel.com/640/480/nightlife?random=1555263261804"
-      ],
-      "weather": {
-        "temperature": 2,
-        "wind": 3,
-        "icon": "sun"
-      },
-      "profile": {
-        "followers": 844,
-        "following": 218,
-        "photo": "http://lorempixel.com/640/480/nightlife?random=1555263261804"
-      },
-      "stars": 5
     }
   ],
   "favorites": []
